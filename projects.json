@@ -51,7 +51,7 @@
     {
       "title": "Saviors Website",
       "description": "A dynamic marketing agency and Web3 community platform providing strategic digital solutions and fostering blockchain innovation",
-      "status": "Live",
+      "status": "Active",
       "userCount": 1500,
       "date": "2025-05",
       "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Motion.js", "Vercel"],

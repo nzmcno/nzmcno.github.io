@@ -78,7 +78,7 @@
       "status": "Active",
       "userCount": 2,
       "date": "2025-03",
-      "technologies": ["Python", "SQL", "wxPython", "REST API"],
+      "technologies": ["Java", "PostgreSQL", "REST API"],
       "live": "",
       "github": "",
       "thumbnail": "https://placehold.co/56x56",
@@ -159,11 +159,11 @@
 
   ],
   "skills": [
-    { "name": "Python", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
+    { "name": "Java", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" },
     { "name": "TypeScript", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
     { "name": "JavaScript", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
     { "name": "Go", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" },
-    { "name": "Java", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" },
+    { "name": "Python", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
     { "name": "PHP", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" },
     { "name": "Swift", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" },
     { "name": "Kotlin", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" },

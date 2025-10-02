@@ -18,7 +18,7 @@
       "status": "In Development",
       "userCount": 100,
       "date": "2025-07",
-      "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "Vercel", "Node.js", "Express", "PostgreSQL"],
+      "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "Vercel", "Node.js", "Express", "PostgreSQL", "RESTful API"],
       "live": "https://coinrithm.com",
       "github": "",
       "thumbnail": "https://placehold.co/56x56",

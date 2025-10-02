@@ -6,7 +6,7 @@
       "status": "In Development",
       "userCount": 100,
       "date": "2025-07",
-      "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "Vercel"],
+      "technologies": ["Java", "Spring Boot", "Next.js", "TypeScript", "Tailwind CSS", "Supabase", "Vercel"],
       "live": "https://numastra.com",
       "github": "",
       "thumbnail": "https://placehold.co/56x56",
